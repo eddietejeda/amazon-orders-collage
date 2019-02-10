@@ -26,6 +26,11 @@ I thought it would be interesting to make a "consumer yearbook" of sorts showing
   - Your collage will be saved in `output/amazon-collage.jpg`
   - An HTML grid version of your collage will be saved in `output/index.html`
 
+- Build Heatmap
+  - `npm run build` will ask you for path of Amazon CSV file. Put assets in `output` folder
+  - `npm run serve` will serve the contents in `output`
+
+
 ## Customizing Dimensions
 
 You can customize the following layout properties in `assemble-collage.js`:
